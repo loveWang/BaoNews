@@ -2,7 +2,7 @@
 //  BaoNewsUITests.swift
 //  BaoNewsUITests
 //
-//  Created by WXQ on 2017/5/17.
+//  Created by WXQ on 2017/2/19.
 //  Copyright © 2017年 WXQ. All rights reserved.
 //
 

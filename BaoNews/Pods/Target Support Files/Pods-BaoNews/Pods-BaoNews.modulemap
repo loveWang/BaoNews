@@ -1,0 +1,6 @@
+framework module Pods_BaoNews {
+  umbrella header "Pods-BaoNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
